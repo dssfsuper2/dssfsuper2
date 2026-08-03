@@ -1,6 +1,8 @@
 >[!WARNING]
 >I am way too obsessed with competitive programming
-
+#Links:
+![IOI logo](https://stats.ioinformatics.org/img/logo.png)
+>https://stats.ioinformatics.org/people/8910
 <!--
 **dssfsuper2/dssfsuper2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
