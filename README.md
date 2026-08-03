@@ -1,5 +1,6 @@
 >[!WARNING]
 >I am way too obsessed with competitive programming
+
 #Links:
 ![IOI logo](https://stats.ioinformatics.org/img/logo.png)
 >https://stats.ioinformatics.org/people/8910
